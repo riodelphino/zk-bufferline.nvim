@@ -154,4 +154,5 @@ MIT license. See [LICENSE](LICENSE)
 - [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim)
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim)
 - [riodelphino/zk-buf-cache.nvim](https://github.com/riodelphino/zk-buf-cache.nvim)
+- [riodelphino/zk-new.nvim](https://github.com/riodelphino/zk-new.nvim)
 
